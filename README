@@ -3,4 +3,5 @@ The main aim of this project is to provide alternatives when people post compara
 In order to achieve this, the entities are mined from a Question Collection. An approach is provided in this project to mine the entities as well as predict the domain of those entities which will be provided as the alternatives.
 
 Note:
-1.Ensure you download the necessary library jar files.
+1. Ensure you download the necessary library jar files.
+2. Execute the MainModule.java file.
