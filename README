@@ -5,3 +5,5 @@ In order to achieve this, the entities are mined from a Question Collection. An 
 Note:
 1. Ensure you download the necessary library jar files.
 2. Execute the MainModule.java file.
+
+Based on this IEEE paper : http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6042862
