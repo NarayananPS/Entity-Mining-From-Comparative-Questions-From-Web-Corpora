@@ -1,0 +1,69 @@
+xperia z,galaxy s4
+galaxy s3,galaxy s4
+htc one,galaxy s3
+htc butterfly,htc one
+htc one+,htc one
+galaxy s3,htc one
+galaxy s3,nexus 4
+nexus 4,htc one
+xperia z2,galaxy s4
+xperia z2,nexus 5
+nexus 4,nexus 5
+galaxy s3,galaxy ace
+galaxy ace,galaxy grand
+lumia 720,samsung s3
+iphone 5,xperia z
+iphone 4s,galaxy s3
+iphone 4,galaxy ace
+iphone 5,galaxy s3
+galaxy s4,iphone 5
+iphone 5,htc butterfly
+iphone 5,iphone 4
+motorola moto x,xperia t2
+xperia z1,galaxy s4
+lg g2,galaxy s4
+xperia z,lg g2
+galaxy ace,micromax canvas hd
+lumia 720,nexus 5
+nexus 5,samsung s4
+galaxy note 3,htc butterfly
+htc butterfly,nexus 5
+galaxy note 3,galaxy s4
+galaxy s3,iphone 4
+xperia c,micromax canvas hd
+galaxy ace,xperia e1
+micromax canvas turbo,micromax canvas hd
+xperia z1,xperia z
+xperia z1,xperia z2
+xperia z,xperia z2
+xperia z,micromax canvas turbo
+galaxy s3,micromax canvas turbo
+htc one,htc one max
+htc one max,htc butterfly
+htc one max,xperia z2
+iphone 5,htc one max
+micromax canvas hd,xperia t2
+iphone 4,micromax canvas turbo
+htc desire 601,galaxy grand
+htc desire 601,galaxy ace
+htc desire 601,lumia 520
+lumia 520,lumia 720
+htc desire 700,htc desire 601
+htc desire 700,galaxy s3
+galaxy s,galaxy s2
+galaxy s2,galaxy s3
+htc desire 700,nexus 5
+nexus 5,micromax canvas turbo
+nexus 5,iphone 5
+galaxy ace,galaxy s
+galaxy s,htc desire 500
+xperia m,desire 500
+xperia m,galaxy ace
+
+
+
+
+
+
+
+

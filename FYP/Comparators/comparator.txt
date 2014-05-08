@@ -1,0 +1,179 @@
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,YaHoo
+Google,Bing
+Google,Bing
+Google,Bing
+Google,Bing
+Google,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+YaHoo,Bing
+Google,DuckDuckGo
+Google,DuckDuckGo
+Google,DuckDuckGo
+DuckDuckGo,YaHoo
+Google,Baidu
+DuckDuckGo,Baidu
+Baidu,YaHoo
+Iphone 5S,Samsung S5
+Iphone 5S,Samsung Galaxy S5
+Iphone 5S,Samsung S5
+Iphone 5S,Samsung Galaxy S5
+Apple Iphone 5S,Samsung Galaxy S5
+Apple Iphone 5S,Samsung Galaxy S5
+5S,S5
+Iphone 5S,Samsung Galaxy S5
+Iphone 5S,Samsung Galaxy S5
+Iphone 5S,Samsung Galaxy S5
+Samsung Galaxy S5,HTC One
+Samsung Galaxy S Duos,Nokia Lumia 420
+Samsung Galaxy S Duos,HTC One
+Samsung Galaxy S Duos,Nokia Lumia 420
+Samsung Galaxy S Duos,Lumia 420
+Lumia 420,Galaxy S Duos
+Galaxy S Duos,Lumia 420
+HTC One,Sony Xperia Z
+Experia Z,HTC One
+Experia Z,HTC One
+Nokia 1100,Nokia 3230
+Nokia 1100,Nokia 3230
+Nokia 3230,Nokia 1100
+Micromax Canvas HD,Samsung Galaxy Grand
+Canvas HD,Galaxy Grand
+Micromax,Nokia
+Micromax,Iphone
+Samsung,HTC
+Slumdog Millionaire,12 years a Slave
+12 years a slave,Slumdog Millionaire
+Frozen,The Dallas Buyers' Club
+Frozen,Dallas Buyers' Club
+American Hustle,The Wolf of Wall Street
+American Hustle,The Wolf of Wall Street
+American Hustle,The Wolf of Wall Street
+American Hustle,The Wolf of Wall Street
+The Wolf of Wall Street,American Hustle
+The Wolf of Wall Street,American Hustle
+The Wolf of Wall Street,American Hustle
+The Wolf of Wall Street,American Hustle
+Wolf of Wall Street,American Hustle
+Wolf of Wall Street,American Hustle
+Wolf of Wall Street,American Hustle
+Wolf of Wall Street,American Hustle
+Wolf of Wall Street,American Hustle
+Gravity,Her
+Gravity,Her
+Gravity,Her
+Gravity,Her
+Her,Gravity
+Her,Gravity
+Her,Gravity
+Her,Gravity
+Her,Gravity
+Her,Gravity
+Escape Plan,Man Of Steel
+Escape Plan,Man Of Steel
+Escape Plan,Man Of Steel
+Escape Plan,Man Of Steel
+Man Of Steel,Escape Plan
+Man Of Steel,Escape Plan
+Man Of Steel,Escape Plan
+Man Of Steel,Escape Plan
+Man Of Steel,Escape Plan
+Man Of Steel,Escape Plan
+The Dark Knight,The Dark Knight Rises
+The Dark Knight,The Dark Knight Rises
+The Dark Knight,The Dark Knight Rises
+The Dark Knight Rises,The Dark Knight
+The Dark Knight Rises,The Dark Knight
+The Dark Knight Rises,The Dark Knight
+Dark Knight,Man Of Steel
+Dark Knight,Man Of Steel
+Dark Knight,Man Of Steel
+Man Of Steel,Dark Knight
+Man Of Steel,Dark Knight
+Man Of Steel,Dark Knight
+Enthiran,Sivaji
+Enthiran,Sivaji
+Enthiran,Sivaji
+Enthiran,Sivaji
+Enthiran,Sivaji
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Enthiran
+Sivaji,Gravity
+Enthiran,Gravity
+Enthiran,Her
+Enthiran,Escape Plan
+USA,UK
+America,Russia
+Russia,United Kingdom
+France,UK
+adventures of tintin,ice age
+adventures of tintin,narnia
+adventures of tintin,up
+adventures of tintin,harry potter
+adventures of tintin,lord of the rings
+ice age,narnia
+up,narnia
+up,ice age
+up,narnia
+porsche,bmw
+porsche,bmw
+porsche,modena
+uk,usa
+iphone 5s,samsung s5
+google,bing
+google,yahoo
+google,bing
+yahoo,duckduckgo
+baidu,duckduckgo
+yahoo,duckduckgo
+google,yahoo
+bing,baidu
+yahoo,baidu
+baidu,duckduckgo
+russia,uk
+chennai,bangalore
+chennai,mumbai
+chennai,mumbai
+chennai,delhi
+yahoo,baidu
+usa,uk
+osama,obama
+obama,bush
+bush,putin
+google,yahoo

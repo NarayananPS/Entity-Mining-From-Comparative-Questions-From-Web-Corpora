@@ -1,0 +1,127 @@
+enemy of the state,white house down
+white house down,olympus has fallen
+conjuring, exorcist
+enemy of the state,independance day
+white house down,enemy of the state
+independance day,enemy of the state
+deep blue sea,jaws
+safe, italian job
+fast and furious,death race
+mission impossible,fast and furious
+death race,mission impossible
+ avengers,superman
+hulk, avengers
+iron man, avengers
+spiderman, avengers
+superman,spiderman
+ironman,hulk
+ironman,ironman 2
+ironman,superman
+ironman,spiderman
+hulk,spiderman
+hulk,superman
+superman,ironman 2
+avatar, adventures of tintin
+avatar,ice age
+avatar,narnia
+avatar,up
+avatar,harry potter
+avatar,lord of the rings
+adventures of tintin,ice age
+adventures of tintin,narnia
+adventures of tintin,up
+adventures of tintin,harry potter
+adventures of tintin,lord of the rings
+ice age,narnia
+up,narnia
+up,ice age
+up,narnia
+lord of the rings,harry potter
+harry potter,narnia
+king kong,rise of the planet of the apes
+ host,jurassic park
+jurassic park,godzilla
+jurassic park,king kong
+king kong,jurassic park
+king kong,godzilla
+king kong, host
+rise of the planet of the apes,godzilla
+godzilla, host
+exorcist,evil dead
+black death,evil dead
+grudge,evil dead
+scream,evil dead
+black death evil dead
+wish master evil dead
+paranormal activity evil dead
+paranormal activity,grave encounters
+paranormal activity,scream
+paranormal activity,wish master
+paranormal activity,jeepers creepers
+jeepers creepers,scream
+jeepers creepers,evil dead
+jeepers creepers, cabin in the woods
+jeepers creepers, exorcist
+jeepers creepers,evil dead
+ exorcist,jeepers creepers
+ exorcist,black death
+ exorcist,scream
+ exorcist,wish master
+ exorcist,scream
+ exorcist,jeepers creepres
+texas chainsaw 3d,scream
+texas chainsaw 3d,paranormal activity
+texas chainsaw 3d, exorcist
+texas chainsaw 3d,jeepers creepers
+halloween,hostel
+halloween,wish master
+halloween,jeepers creepers
+halloween, exorcist
+hostel, grudge
+hostel,evil dead
+hostel,black death
+hostel,scream
+ possession, exorcist
+ possession,black death
+ possession,hostel
+ possession, conjuring
+ possession,let the right one in
+ possession,wish master
+scream,black death
+wish master,black death
+wish master,paranormal activity
+p2,scream
+p2, possession
+p2,jeepers creepers
+p2,let the right one in
+p2,scream
+p2,apartment 143
+apartment 143,paranormal activity
+apartment 143,scream
+apartment 143, possession
+apartment 143,jeepers creepers
+apartment 143,let the right one in
+apartment 143,paranormal activity
+piranha,deep blue sea
+piranha,jaws
+ truman show,life is beautiful
+ truman show,lol
+ truman show,scary movie 2
+ truman show, switch
+dumb and dumber, truman show
+dumb and dumber, dictator
+dumb and dumber,lol
+scary movie 2,dumb and dumber
+switch,dumb and dumber
+switch, dictator
+stand up guys,scary movie 2
+stand up guys,life is beautiful
+stand up guys,lol
+stand up guys,scary movie 3
+switch,scary movie 2
+young adult,scary movie 2
+young adult,scary movie 3
+young adult,dumb and dumber
+young adult,fun size
+lol, dictator
+scary movie 2,scary movie 3
