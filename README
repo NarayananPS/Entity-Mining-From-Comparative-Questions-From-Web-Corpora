@@ -18,3 +18,11 @@ DuckDuckGo
 ...
 
 Based on this IEEE paper : http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6042862
+
+Description: 
+1. This project uses a Hybridized model which is a combination of the Pattern based and Heuristics based approach specified in the base paper.
+2. The entities that are compared in the user query are extracted using Stanford POS Tagger.
+3. Then the Pattern based and Heuristic approaches are used to determine whether the user question is a comparative question or not.
+4. If the question is comparative the alternative comparables entities are extracted from our existing Web Corpora.
+5. The alternative comparable entities are then ranked according to the frequency-based and graph-based approach as specified in the base paper.
+6. The Hybridized model was found to provide a better F-Score value.
