@@ -1,4 +1,6 @@
-													ABSTRACT
+PROJECT MEMBERS : Narayanan PS, Hariprasaad S, Kannan SR						
+
+						ABSTRACT
 The natural tendency of humans is to compare various things or items before arriving at a particular decision. The item under comparison may be any entity such as a product, a food item, a company or anything. A Comparative Question compares two or more such entities. Usually while comparing entities, people might also be interested in knowing the alternatives. 
 The main aim of this project is to provide alternatives when people post comparative questions online. The alternatives can be from the same or a different domain. This project also focuses on providing the alternatives from the same as well as different domain.
 In order to achieve this, the entities are mined from a Question Collection. An approach is provided in this project to mine the entities as well as predict the domain of those entities which will be provided as the alternatives.
